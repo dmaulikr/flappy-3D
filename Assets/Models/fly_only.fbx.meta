@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: a3df64e8a5b4d4edc8f7580e005a2f1e
+timeCreated: 1492597697
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle_l
+    100002: ankle_r
+    100004: Armature
+    100006: chest
+    100008: Cube
+    100010: //RootNode
+    100012: hair
+    100014: hair_end
+    100016: head
+    100018: knee_l
+    100020: knee_r
+    100022: paw_l
+    100024: paw_l_end
+    100026: paw_r
+    100028: paw_r_end
+    100030: pelvis
+    100032: tail_00
+    100034: tail_01
+    100036: tail_01_end
+    100038: thigh_l
+    100040: thigh_r
+    100042: w_l_00
+    100044: w_l_01
+    100046: w_l_01_end
+    100048: w_r_00
+    100050: w_r_01
+    100052: w_r_01_end
+    400000: ankle_l
+    400002: ankle_r
+    400004: Armature
+    400006: chest
+    400008: Cube
+    400010: //RootNode
+    400012: hair
+    400014: hair_end
+    400016: head
+    400018: knee_l
+    400020: knee_r
+    400022: paw_l
+    400024: paw_l_end
+    400026: paw_r
+    400028: paw_r_end
+    400030: pelvis
+    400032: tail_00
+    400034: tail_01
+    400036: tail_01_end
+    400038: thigh_l
+    400040: thigh_r
+    400042: w_l_00
+    400044: w_l_01
+    400046: w_l_01_end
+    400048: w_r_00
+    400050: w_r_01
+    400052: w_r_01_end
+    4300000: Cube
+    7400000: Armature|Fly_001
+    7400002: Armature|Idol_00
+    7400004: Armature|Idol_fly
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Fly_001
+      takeName: Armature|Fly_001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/pelvis
+        weight: 1
+      - path: Armature/pelvis/chest
+        weight: 1
+      - path: Armature/pelvis/chest/head
+        weight: 1
+      - path: Armature/pelvis/chest/head/hair
+        weight: 1
+      - path: Armature/pelvis/chest/head/hair/hair_end
+        weight: 1
+      - path: Armature/pelvis/chest/w_l_00
+        weight: 1
+      - path: Armature/pelvis/chest/w_l_00/w_l_01
+        weight: 1
+      - path: Armature/pelvis/chest/w_l_00/w_l_01/w_l_01_end
+        weight: 1
+      - path: Armature/pelvis/chest/w_r_00
+        weight: 1
+      - path: Armature/pelvis/chest/w_r_00/w_r_01
+        weight: 1
+      - path: Armature/pelvis/chest/w_r_00/w_r_01/w_r_01_end
+        weight: 1
+      - path: Armature/tail_00
+        weight: 1
+      - path: Armature/tail_00/tail_01
+        weight: 1
+      - path: Armature/tail_00/tail_01/tail_01_end
+        weight: 1
+      - path: Armature/thigh_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l/ankle_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l/ankle_l/paw_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l/ankle_l/paw_l/paw_l_end
+        weight: 1
+      - path: Armature/thigh_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r/ankle_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r/ankle_r/paw_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r/ankle_r/paw_r/paw_r_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idol_00
+      takeName: Armature|Idol_00
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/pelvis
+        weight: 1
+      - path: Armature/pelvis/chest
+        weight: 1
+      - path: Armature/pelvis/chest/head
+        weight: 1
+      - path: Armature/pelvis/chest/head/hair
+        weight: 1
+      - path: Armature/pelvis/chest/head/hair/hair_end
+        weight: 1
+      - path: Armature/pelvis/chest/w_l_00
+        weight: 1
+      - path: Armature/pelvis/chest/w_l_00/w_l_01
+        weight: 1
+      - path: Armature/pelvis/chest/w_l_00/w_l_01/w_l_01_end
+        weight: 1
+      - path: Armature/pelvis/chest/w_r_00
+        weight: 1
+      - path: Armature/pelvis/chest/w_r_00/w_r_01
+        weight: 1
+      - path: Armature/pelvis/chest/w_r_00/w_r_01/w_r_01_end
+        weight: 1
+      - path: Armature/tail_00
+        weight: 1
+      - path: Armature/tail_00/tail_01
+        weight: 1
+      - path: Armature/tail_00/tail_01/tail_01_end
+        weight: 1
+      - path: Armature/thigh_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l/ankle_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l/ankle_l/paw_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l/ankle_l/paw_l/paw_l_end
+        weight: 1
+      - path: Armature/thigh_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r/ankle_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r/ankle_r/paw_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r/ankle_r/paw_r/paw_r_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idol_fly
+      takeName: Armature|Idol_fly
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/pelvis
+        weight: 1
+      - path: Armature/pelvis/chest
+        weight: 1
+      - path: Armature/pelvis/chest/head
+        weight: 1
+      - path: Armature/pelvis/chest/head/hair
+        weight: 1
+      - path: Armature/pelvis/chest/head/hair/hair_end
+        weight: 1
+      - path: Armature/pelvis/chest/w_l_00
+        weight: 1
+      - path: Armature/pelvis/chest/w_l_00/w_l_01
+        weight: 1
+      - path: Armature/pelvis/chest/w_l_00/w_l_01/w_l_01_end
+        weight: 1
+      - path: Armature/pelvis/chest/w_r_00
+        weight: 1
+      - path: Armature/pelvis/chest/w_r_00/w_r_01
+        weight: 1
+      - path: Armature/pelvis/chest/w_r_00/w_r_01/w_r_01_end
+        weight: 1
+      - path: Armature/tail_00
+        weight: 1
+      - path: Armature/tail_00/tail_01
+        weight: 1
+      - path: Armature/tail_00/tail_01/tail_01_end
+        weight: 1
+      - path: Armature/thigh_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l/ankle_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l/ankle_l/paw_l
+        weight: 1
+      - path: Armature/thigh_l/knee_l/ankle_l/paw_l/paw_l_end
+        weight: 1
+      - path: Armature/thigh_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r/ankle_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r/ankle_r/paw_r
+        weight: 1
+      - path: Armature/thigh_r/knee_r/ankle_r/paw_r/paw_r_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

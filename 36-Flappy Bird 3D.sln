@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36-Flappy Bird 3D", "Assembly-CSharp-firstpass.csproj", "{F9C30C30-45D0-426B-55A2-D6B17F3FA5F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36-Flappy Bird 3D", "Assembly-CSharp.csproj", "{7C427DAE-D4AA-36E3-E4F4-8E26F35EBF68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36-Flappy Bird 3D", "Assembly-CSharp-Editor-firstpass.csproj", "{7843427F-EBE4-FAA5-D54B-48D2153021AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C30C30-45D0-426B-55A2-D6B17F3FA5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C30C30-45D0-426B-55A2-D6B17F3FA5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C30C30-45D0-426B-55A2-D6B17F3FA5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C30C30-45D0-426B-55A2-D6B17F3FA5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C427DAE-D4AA-36E3-E4F4-8E26F35EBF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C427DAE-D4AA-36E3-E4F4-8E26F35EBF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C427DAE-D4AA-36E3-E4F4-8E26F35EBF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C427DAE-D4AA-36E3-E4F4-8E26F35EBF68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7843427F-EBE4-FAA5-D54B-48D2153021AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7843427F-EBE4-FAA5-D54B-48D2153021AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7843427F-EBE4-FAA5-D54B-48D2153021AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7843427F-EBE4-FAA5-D54B-48D2153021AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
